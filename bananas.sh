@@ -74,9 +74,6 @@ echo "Announcer? Why is there a new contestant??"
 echo "A tree!"
  echo "soon"
        ;;
-   esac
-done
-       ;;
 
         R)
 echo "Let's learn about Bananas!"
@@ -89,7 +86,10 @@ Over time, these plants were cultivated and developed into the edible, seedless 
 The legend of the banana: A similar legend from the 19th century tells of a family that lived in a jungle and were poor. One day, a woman found a magical, singing banana in the jungle, which led to the discovery of a hidden treasure. The story of the banana is used to show how even the most common things can be magical if we just look closer.
 Living in the present: A modern story uses the banana as a metaphor for living in the moment. It tells of a wise monk who advises his disciple to enjoy the present instead of waiting for the future, reminding him that the ripened banana is already in his hands,"
         ;;
-
+    esac
+ done
+        ;;
+        
         Q)
 echo "See you later!"
    sleep 2
