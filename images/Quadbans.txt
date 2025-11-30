@@ -1,1 +1,1 @@
-https://github.com/intelboi12returns/bananas.git/bananas/bananas.jpg
+https://raw.githubusercontent.com/intelboi12returns/bananas/main/bananas.jpg
