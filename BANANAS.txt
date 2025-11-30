@@ -9,6 +9,14 @@ Hi, this git project is called : Bananas. And i'm here to make my first git proj
                             How this works:
                             
 So... if you clone this into Termux 
-e.c. : git clone https://github.com/intelboi12returns/bananas/
+e.c. : git clone https://github.com/intelboi12returns/bananas.git
+
 -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
  Basically it will put these repository files into Termux...
+
+It might include... A .sh file and a .txt file
+ If you want it to work correctly, just remember to install figlet and jp2a.
+
+Regards.
+-intelboi12isback
