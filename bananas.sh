@@ -39,4 +39,35 @@ case $choice in
 
        4)
 echo "Bananas incoming!"
- jp2a --width=80 --color /storage/Downloads/bananas.jpg/
+ jp2a --width=80 --color ../images/bananas.jpg
+       ;;
+       
+       1)
+echo "Someone get him a buddy or a soulmate."
+ echo "Soon"
+       ;;
+       
+       P)
+echo "Someone! don't eat him!!!"
+ echo "soon"
+       ;;
+
+       G)
+echo "He changed his colour??"
+ echo "soon"
+       ;;
+       
+       C)
+echo "Weird..."
+ echo "Soon!"
+       ;;
+       
+       BFDI)
+echo "Announcer? Why is there a new contestant??"
+ echo "soon"
+       ;;
+       
+       T)
+echo "A tree!"
+ echo "soon"
+       ;;
