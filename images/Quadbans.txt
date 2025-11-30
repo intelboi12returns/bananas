@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/intelboi12returns/bananas/main/bananas.jpg
+jp2a --width=80 --color bananas.jpg
